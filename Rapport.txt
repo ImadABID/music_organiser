@@ -1,0 +1,706 @@
+			RAPPORT DE FONCTIONEMENT
+			________________________
+
+Resource: "C:\Users\Glad\Desktop\Ma musique"
+Destination: "c:\Users\Glad\Desktop"
+
+1er Commande: c: & cd "c:\Users\Glad\Desktop" & mkdir ABID_Software
+
+New Destination:"c:\Users\Glad\Desktop\ABID_Software"
+
+Commande de copie tous les fichier:C: & cd "C:\Users\Glad\Desktop\Ma musique" & copy *.* "c:\Users\Glad\Desktop\ABID_Software"
+
+New Resource:"c:\Users\Glad\Desktop\ABID_Software"
+
+========================= Copier les fichiers dans le dossier convenable ============================================
+
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Alan_Walker
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Alan*Walker* "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir avicii
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *avicii* "c:\Users\Glad\Desktop\ABID_Software\avicii" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Aminux
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Aminux* "c:\Users\Glad\Desktop\ABID_Software\Aminux" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Andra
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Andra* "c:\Users\Glad\Desktop\ABID_Software\Andra" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Ariana_Grande
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Ariana*Grande* "c:\Users\Glad\Desktop\ABID_Software\Ariana_Grande" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Background
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Background* "c:\Users\Glad\Desktop\ABID_Software\Background" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Becky_G
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Becky*G* "c:\Users\Glad\Desktop\ABID_Software\Becky_G" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Black_M
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Black*M* "c:\Users\Glad\Desktop\ABID_Software\Black_M" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Bruno_Mars
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Bruno*Mars* "c:\Users\Glad\Desktop\ABID_Software\Bruno_Mars" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Calvin_Harris
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Calvin*Harris* "c:\Users\Glad\Desktop\ABID_Software\Calvin_Harris" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir charlie_Puth
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *charlie*Puth* "c:\Users\Glad\Desktop\ABID_Software\charlie_Puth" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Clean_Bandit
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Clean*Bandit* "c:\Users\Glad\Desktop\ABID_Software\Clean_Bandit" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir DJ
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *DJ* "c:\Users\Glad\Desktop\ABID_Software\DJ" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Demi_Lovato
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Demi*Lovato* "c:\Users\Glad\Desktop\ABID_Software\Demi_Lovato" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Ellie_Goulding
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Ellie*Goulding* "c:\Users\Glad\Desktop\ABID_Software\Ellie_Goulding" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Enrique_Iglesias
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Enrique*Iglesias* "c:\Users\Glad\Desktop\ABID_Software\Enrique_Iglesias" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir John_Legend
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *John*Legend* "c:\Users\Glad\Desktop\ABID_Software\John_Legend" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Lost_Frequencies
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Lost*Frequencies* "c:\Users\Glad\Desktop\ABID_Software\Lost_Frequencies" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Maher_Zain
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Maher*Zain* "c:\Users\Glad\Desktop\ABID_Software\Maher_Zain" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Major_Lazer
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Major*Lazer* "c:\Users\Glad\Desktop\ABID_Software\Major_Lazer" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Nicky_Romero
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Nicky*Romero* "c:\Users\Glad\Desktop\ABID_Software\Nicky_Romero" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Hardwell
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Hardwell* "c:\Users\Glad\Desktop\ABID_Software\Hardwell" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Indila
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Indila* "c:\Users\Glad\Desktop\ABID_Software\Indila" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir INNA
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *INNA* "c:\Users\Glad\Desktop\ABID_Software\INNA" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir shakira
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *shakira* "c:\Users\Glad\Desktop\ABID_Software\shakira" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Selena_Gomez
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Selena*Gomez* "c:\Users\Glad\Desktop\ABID_Software\Selena_Gomez" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Sia
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Sia* "c:\Users\Glad\Desktop\ABID_Software\Sia" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Souf
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Souf* "c:\Users\Glad\Desktop\ABID_Software\Souf" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir Trap_Nation
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *Trap*Nation* "c:\Users\Glad\Desktop\ABID_Software\Trap_Nation" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir The_chainsmokers
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *The*chainsmokers* "c:\Users\Glad\Desktop\ABID_Software\The_chainsmokers" & Non
+Make New DIR:
+	c: & cd "c:\Users\Glad\Desktop\ABID_Software" & mkdir TheFatRat
+
+Principale commande:c: & cd "c:\Users\Glad\Desktop\ABID_Software" & copy *TheFatRat* "c:\Users\Glad\Desktop\ABID_Software\TheFatRat" & Non
+
+
+======================= Supprimer les fichiers indiqueés dans la liste =============================================
+
+	Suppression de: *Alan*Walker*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Alan*Walker*
+
+	Suppression de: *avicii*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *avicii*
+
+	Suppression de: *Aminux*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Aminux*
+
+	Suppression de: *Andra*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Andra*
+
+	Suppression de: *Ariana*Grande*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Ariana*Grande*
+
+	Suppression de: *Background*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Background*
+
+	Suppression de: *Becky*G*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Becky*G*
+
+	Suppression de: *Black*M*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Black*M*
+
+	Suppression de: *Bruno*Mars*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Bruno*Mars*
+
+	Suppression de: *Calvin*Harris*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Calvin*Harris*
+
+	Suppression de: *charlie*Puth*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *charlie*Puth*
+
+	Suppression de: *Clean*Bandit*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Clean*Bandit*
+
+	Suppression de: *DJ*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *DJ*
+
+	Suppression de: *Demi*Lovato*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Demi*Lovato*
+
+	Suppression de: *Ellie*Goulding*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Ellie*Goulding*
+
+	Suppression de: *Enrique*Iglesias*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Enrique*Iglesias*
+
+	Suppression de: *John*Legend*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *John*Legend*
+
+	Suppression de: *Lost*Frequencies*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Lost*Frequencies*
+
+	Suppression de: *Maher*Zain*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Maher*Zain*
+
+	Suppression de: *Major*Lazer*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Major*Lazer*
+
+	Suppression de: *Nicky*Romero*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Nicky*Romero*
+
+	Suppression de: *Hardwell*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Hardwell*
+
+	Suppression de: *Indila*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Indila*
+
+	Suppression de: *INNA*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *INNA*
+
+	Suppression de: *shakira*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *shakira*
+
+	Suppression de: *Selena*Gomez*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Selena*Gomez*
+
+	Suppression de: *Sia*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Sia*
+
+	Suppression de: *Souf*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Souf*
+
+	Suppression de: *Trap*Nation*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *Trap*Nation*
+
+	Suppression de: *The*chainsmokers*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *The*chainsmokers*
+
+	Suppression de: *TheFatRat*
+		Commande: c: & cd "c:\Users\Glad\Desktop\ABID_Software" & Del *TheFatRat*
+=========================== Déplacer les fichiers indiqueés par faute ============================================
+
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *aAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *bAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *cAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *dAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *eAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *fAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *gAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *hAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *iAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *jAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *kAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *lAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *mAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *nAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *oAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *pAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *qAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *rAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *sAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *tAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *uAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *vAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *wAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *xAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *yAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *zAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *AAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *BAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *CAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *DAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *EAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *FAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *GAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *HAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *IAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *JAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *KAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *LAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *MAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *NAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *OAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *PAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *QAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *RAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *SAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *TAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *UAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *VAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *WAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *XAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *YAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *ZAlan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkera* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeb* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkec* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walked* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkee* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkef* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeg* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeh* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkei* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkej* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkek* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkel* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkem* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walken* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeo* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkep* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeq* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walker* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkes* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walket* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkeu* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkev* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkew* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkex* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkey* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*Walkez* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeA* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeB* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeC* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeD* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeE* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeF* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeG* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeH* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeI* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeJ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeK* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeL* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeM* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeN* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeO* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeP* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeQ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeR* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeS* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeT* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeU* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeV* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeW* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeX* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeY* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Alan_Walker" & move *Alan*WalkeZ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *bavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *cavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *davicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *eavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *favicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *gavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *havicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *iavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *javicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *kavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *lavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *mavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *navicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *oavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *pavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *qavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *ravicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *savicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *tavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *uavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *vavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *wavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *xavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *yavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *zavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Aavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Bavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Cavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Davicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Eavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Favicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Gavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Havicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Iavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Javicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Kavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Lavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Mavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Navicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Oavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Pavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Qavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Ravicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Savicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Tavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Uavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Vavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Wavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Xavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Yavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *Zavicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicia* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicib* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicic* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicid* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicie* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicif* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicig* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicih* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicii* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicij* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicik* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicil* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicim* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicin* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicio* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicip* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciq* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicir* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicis* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicit* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciu* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciv* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciw* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *avicix* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciy* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciz* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciA* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciB* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciC* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciD* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciE* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciF* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciG* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciH* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciI* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciJ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciK* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciL* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciM* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciN* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciO* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciP* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciQ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciR* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciS* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciT* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciU* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciV* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciW* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciX* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciY* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\avicii" & move *aviciZ* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *aAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *bAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *cAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *dAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *eAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *fAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *gAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *hAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *iAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *jAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *kAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *lAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *mAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *nAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *oAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *pAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *qAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *rAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *sAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *tAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *uAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *vAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *wAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *xAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *yAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non
+
+Commande pour déplacer les FIF: c: & cd "c:\Users\Glad\Desktop\ABID_Software\Aminux" & move *zAminux* "c:\Users\Glad\Desktop\ABID_Software" & Non

@@ -1,0 +1,137 @@
+			RAPPORT DE FONCTIONEMENT
+			________________________
+
+Resource: "D:\Imad_Donnes\Multimedias\Ma musique"
+Destination: "C:\Users\Be_Better\Desktop"
+
+1er Commande: C: & cd "C:\Users\Be_Better\Desktop" & mkdir ABID_Software
+
+New Destination:"C:\Users\Be_Better\Desktop\ABID_Software"
+
+Commande de copie les fichier:D: & cd "D:\Imad_Donnes\Multimedias\Ma musique" & copy *.* "C:\Users\Be_Better\Desktop\ABID_Software"
+
+New Resource:"C:\Users\Be_Better\Desktop\ABID_Software"
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Alan_Walker
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Alan*Walker* "C:\Users\Be_Better\Desktop\ABID_Software\Alan_Walker" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir avicii
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *avicii* "C:\Users\Be_Better\Desktop\ABID_Software\avicii" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Aminux
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Aminux* "C:\Users\Be_Better\Desktop\ABID_Software\Aminux" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Andra
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Andra* "C:\Users\Be_Better\Desktop\ABID_Software\Andra" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Ariana_Grande
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Ariana*Grande* "C:\Users\Be_Better\Desktop\ABID_Software\Ariana_Grande" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Background
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Background* "C:\Users\Be_Better\Desktop\ABID_Software\Background" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Becky_G
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Becky*G* "C:\Users\Be_Better\Desktop\ABID_Software\Becky_G" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Black_M
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Black*M* "C:\Users\Be_Better\Desktop\ABID_Software\Black_M" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Bruno_Mars
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Bruno*Mars* "C:\Users\Be_Better\Desktop\ABID_Software\Bruno_Mars" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Calvin_Harris
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Calvin*Harris* "C:\Users\Be_Better\Desktop\ABID_Software\Calvin_Harris" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir charlie_Puth
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *charlie*Puth* "C:\Users\Be_Better\Desktop\ABID_Software\charlie_Puth" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Clean_Bandit
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Clean*Bandit* "C:\Users\Be_Better\Desktop\ABID_Software\Clean_Bandit" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir DJ
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *DJ* "C:\Users\Be_Better\Desktop\ABID_Software\DJ" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Demi_Lovato
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Demi*Lovato* "C:\Users\Be_Better\Desktop\ABID_Software\Demi_Lovato" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Ellie_Goulding
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Ellie*Goulding* "C:\Users\Be_Better\Desktop\ABID_Software\Ellie_Goulding" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Enrique_Iglesias
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Enrique*Iglesias* "C:\Users\Be_Better\Desktop\ABID_Software\Enrique_Iglesias" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir John_Legend
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *John*Legend* "C:\Users\Be_Better\Desktop\ABID_Software\John_Legend" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Lost_Frequencies
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Lost*Frequencies* "C:\Users\Be_Better\Desktop\ABID_Software\Lost_Frequencies" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Maher_Zain
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Maher*Zain* "C:\Users\Be_Better\Desktop\ABID_Software\Maher_Zain" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Major_Lazer
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Major*Lazer* "C:\Users\Be_Better\Desktop\ABID_Software\Major_Lazer" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Nicky_Romero
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Nicky*Romero* "C:\Users\Be_Better\Desktop\ABID_Software\Nicky_Romero" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Hardwell
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Hardwell* "C:\Users\Be_Better\Desktop\ABID_Software\Hardwell" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Indila
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Indila* "C:\Users\Be_Better\Desktop\ABID_Software\Indila" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir INNA
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *INNA* "C:\Users\Be_Better\Desktop\ABID_Software\INNA" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir shakira
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *shakira* "C:\Users\Be_Better\Desktop\ABID_Software\shakira" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Selena_Gomez
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Selena*Gomez* "C:\Users\Be_Better\Desktop\ABID_Software\Selena_Gomez" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Sia
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Sia* "C:\Users\Be_Better\Desktop\ABID_Software\Sia" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Souf
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Souf* "C:\Users\Be_Better\Desktop\ABID_Software\Souf" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir Trap_Nation
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *Trap*Nation* "C:\Users\Be_Better\Desktop\ABID_Software\Trap_Nation" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir The_chainsmokers
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *The*chainsmokers* "C:\Users\Be_Better\Desktop\ABID_Software\The_chainsmokers" & Non
+Make New DIR:
+	C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & mkdir TheFatRat
+
+Principale commande:C: & cd "C:\Users\Be_Better\Desktop\ABID_Software" & move *TheFatRat* "C:\Users\Be_Better\Desktop\ABID_Software\TheFatRat" & Non
